@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenuScene.unity
+    guid: f14e861e6b4eb8d44a38fd2324c18e81
+  - enabled: 1
+    path: Assets/Scenes/MainMenu2Scene.unity
+    guid: 7732f335821c8d445ac5e70e80e9626e
+  - enabled: 1
+    path: Assets/Scenes/MainMenu3Scene.unity
+    guid: 3f7ed7a134b386f44abfae6a201a0d57
+  - enabled: 1
+    path: Assets/Scenes/SampleSceneLevel.unity
+    guid: 3e576cb61c44b444dbee1dcb205e3df2
+  - enabled: 1
+    path: Assets/Scenes/1.unity
+    guid: 3e3cde2bd912bbc4e9ca19fa016e7610
+  - enabled: 1
+    path: Assets/Scenes/2.unity
+    guid: 89d098bbc09732948bf5d845795422ab
+  - enabled: 1
+    path: Assets/Scenes/3.unity
+    guid: 9fa8a77520bd5a94b8d3313c5d4ce7d1
+  - enabled: 1
+    path: Assets/Scenes/4.unity
+    guid: ba85e3e6664c9e64bb7a18d96fffb1df
+  - enabled: 1
+    path: Assets/Scenes/GameOverScene.unity
+    guid: a5d0ef35320592a4082bde811dd3d3c7
+  - enabled: 1
+    path: Assets/Scenes/PuzzleGameOptionMenu.unity
+    guid: 2f155581fa3166f4181de973296f1bb9
+  - enabled: 1
+    path: Assets/Scenes/PuzzleGame.unity
+    guid: 924962cf0ec2ae546867c0ee6603f626
+  - enabled: 1
+    path: Assets/Scenes/PuzzleGame 1.unity
+    guid: 0db326bc46c86cb49bd045530a9de6d1
+  - enabled: 1
+    path: Assets/Scenes/PuzzleGame 2.unity
+    guid: fb36a15633b210e43b52ea57c82ea7bc
+  - enabled: 1
+    path: Assets/Scenes/ScrambleWordLevel.unity
+    guid: 39612fc7e01b13641bb09c0551e21d04
+  - enabled: 1
+    path: Assets/Scenes/ScrambleWord.unity
+    guid: 2401bf9650452a449a9c5288707967f3
+  - enabled: 1
+    path: Assets/Scenes/ScrambleWord 1.unity
+    guid: f0c50df9be11c0e4e904bc3440d8a2f8
+  - enabled: 1
+    path: Assets/Scenes/ScrambleWord 2.unity
+    guid: 5f672386cef07614d8161c6bddcf537f
+  - enabled: 1
+    path: Assets/Scenes/ScrambleWord 3.unity
+    guid: a5493aec0b434484f8c162ba263746f0
+  - enabled: 1
+    path: Assets/Scenes/ScrambleOverScene.unity
+    guid: 3c595e741be254943840f61faeb40ded
+  - enabled: 1
+    path: Assets/Scenes/CrossWordLevel.unity
+    guid: a5892042728fe6146b141d873629d5ab
+  - enabled: 1
+    path: Assets/Scenes/CrossWord.unity
+    guid: 7416500a885665b41aa98d6c8e5cc8f2
+  - enabled: 1
+    path: Assets/Scenes/CrossWord 1.unity
+    guid: fb0ed585eab8e6c4aa4e06fa21eaf31f
+  - enabled: 1
+    path: Assets/Scenes/CrossWord 2.unity
+    guid: 0088392abb296494e998076f49aaf651
+  - enabled: 1
+    path: Assets/Scenes/BulmacaLevel.unity
+    guid: d7e65b1f6174efa4f88da6f317ff74dc
+  - enabled: 1
+    path: Assets/Scenes/Bulmaca.unity
+    guid: 74aac8d89ce03844f94986ba2c34896f
+  - enabled: 1
+    path: Assets/Scenes/Bulmaca 1.unity
+    guid: 3545875957c68ad459ecc63ac9c56a7b
+  - enabled: 1
+    path: Assets/Scenes/Bulmaca 2.unity
+    guid: 2b190dbe9b2a24c4f8125950eab3544d
+  m_configObjects: {}
